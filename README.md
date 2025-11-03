@@ -1,2 +1,2 @@
 # Mind-math-quizzer
-python project SAII institute
+python project SAII institute Symbiosis International ( Deemed University )
