@@ -10,3 +10,7 @@ python project
 Prajakta Suryavanshi -25030421029
 Contributor-Prajakta suryavanshi
 >>>>>>> upstream/main
+* Contributor: Srushti
+* Contributor: Srushti
+* Contributor: Srushti
+* Reviewed by Sanobar
