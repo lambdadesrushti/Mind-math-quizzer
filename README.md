@@ -1,1 +1,1 @@
-# Mind Math Quizzer - Srushti Version
+# Mind Math Quizzer - Sanobar Version
